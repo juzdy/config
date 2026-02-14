@@ -1,0 +1,2 @@
+# config
+JUZDY Configuration package
