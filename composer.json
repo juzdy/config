@@ -1,0 +1,28 @@
+{
+    "name": "juzdy/config",
+    "description": "The JUZDY Configuration",
+    "keywords": ["php", "juzdy", "configuration"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Galitsky",
+            "email": "concept.galitsky@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juzdy\\Config\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "extra": {
+    },
+    "config": {
+    }
+}
